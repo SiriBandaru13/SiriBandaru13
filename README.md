@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 💫 About Me:
 👋 Hi, I’m Siri<br>🔭 I’m currently working on:<br>Cybersecurity projects focused on SOC operations, log analysis, and AI-based security solutions.<br>🌱 I’m currently learning:<br>Java development, cloud security, and AI integration in cybersecurity.<br>👯 I’m looking to collaborate on:<br>Projects related to cybersecurity, SIEM tools, threat detection, and AI-driven security systems.<br>🤝 I’m looking for help with:<br>Building real-world security projects and improving problem-solving for product-based roles.<br>💬 Ask me about:<br>Java basics, cybersecurity fundamentals, and beginner-friendly security projects.<br>⚡ Fun fact:<br>I enjoy breaking down complex security concepts and turning them into practical, real-world solutions.
 
@@ -11,16 +10,7 @@
 ![](https://streak-stats.demolab.com/?user=SiriBandaru13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SiriBandaru13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SiriBandaru13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SiriBandaru13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=SiriBandaru13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
