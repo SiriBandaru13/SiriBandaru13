@@ -1,16 +1,141 @@
-## Hi there 👋
-# 💫 About Me:
-👋 Hi, I’m Siri<br>🔭 I’m currently working on:<br>Cybersecurity projects focused on SOC operations, log analysis, and AI-based security solutions.<br>🌱 I’m currently learning:<br>Java development, cloud security, and AI integration in cybersecurity.<br>👯 I’m looking to collaborate on:<br>Projects related to cybersecurity, SIEM tools, threat detection, and AI-driven security systems.<br>🤝 I’m looking for help with:<br>Building real-world security projects and improving problem-solving for product-based roles.<br>💬 Ask me about:<br>Java basics, cybersecurity fundamentals, and beginner-friendly security projects.<br>⚡ Fun fact:<br>I enjoy breaking down complex security concepts and turning them into practical, real-world solutions.
+<div align="center">
 
+# Hey, I'm Siri Bandaru 👋
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SiriBandaru13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SiriBandaru13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SiriBandaru13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ☕ Java Engineer &nbsp;|&nbsp; ☁️ Cloud & Security &nbsp;|&nbsp; 📍 Hyderabad, India
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Engineer;Cloud+%26+Security+Enthusiast;Full+Stack+in+Progress+%F0%9F%9A%80;1.5+Years+Production+Experience)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/🚀_Open_to_Work-brightgreen?style=for-the-badge)
+![Experience](https://img.shields.io/badge/💼_1.5_yrs_@_Accenture-blue?style=for-the-badge)
+![ISC2](https://img.shields.io/badge/🔐_ISC2_Certified-purple?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/☁️_Oracle_Cloud_Certified-orange?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/🎓_CGPA_9.10-teal?style=for-the-badge)
+![Airbus](https://img.shields.io/badge/✈️_Ex--Airbus_Intern-coral?style=for-the-badge)
+
+</div>
+
+---
+
+## 🙋‍♀️ About me
+
+I'm a **backend engineer who has actually shipped production code** — not just side projects. At Accenture I built Java + Spring Boot microservices for a live Incentive Management system, accessed prod servers via PuTTY, and monitored batch jobs with Zena. Before that, I interned at **Airbus in Bengaluru** doing real vulnerability management.
+
+Now I'm levelling up into **full stack territory** — learning ReactJS to complement my Java backend and exploring Docker & CI/CD. Looking for a team where I can ship fast, learn faster, and eventually own a service end-to-end. 🎯
+
+> 💬 *"I don't just write code — I write code that runs in production at 2am without waking anyone up."* 😅
+
+---
+
+## ⚡ At a glance
+
+| 💼 Experience | 🏢 Companies | 🎓 CGPA | 🏅 Certifications |
+|:---:|:---:|:---:|:---:|
+| 1.5 years | 2 | 9.10 | 2 |
+
+---
+
+## 🛠️ Tech stack
+
+**Backend & languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Tools & systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY_(prod_access)-lightgrey?style=flat-square)
+![Zena](https://img.shields.io/badge/Zena_(batch_monitoring)-lightgrey?style=flat-square)
+
+---
+
+## 🚀 Featured projects
+
+### 🔒 [AWS Cloud Security Monitoring Dashboard](https://github.com/SiriBandaru13)
+> `AWS` `CloudTrail` `CloudWatch` `Lambda` `S3` `IAM` `EventBridge` `Python` `Git`
+
+Built a full cloud security monitoring system — custom CloudWatch metric filters, Python Lambda auto-remediation triggered by EventBridge, and a real-time 6-widget security dashboard. No managed services, all custom logic.
+
+### 🧠 [ASD Detection & Therapy Recommendations](https://github.com/SiriBandaru13)
+> `ResNet101` `Random Forest` `Flask` `Python`
+
+Two-model approach: **ResNet101** for image/video analysis + **Random Forest** for behavioural data — combined into a Flask app that gives real-time autism spectrum predictions and personalised therapy recommendations.
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **Oracle Cloud Infrastructure Foundations Associate** — Oracle
+- 🔐 **Certified in Cybersecurity (CC)** — ISC2
+
+---
+
+## 🌱 Currently levelling up
+
+- ⚛️ Building **ReactJS** skills to go full stack with my Java backend
+- 🐳 Learning **Docker** and container-based deployment
+- 🔁 Exploring **CI/CD pipelines** with GitHub Actions
+- ☸️ Getting familiar with **Kubernetes** concepts
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Siri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiriBandaru13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiriBandaru13&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 😄 Fun facts
+
+- 🔐 Interned at **Airbus** — yes, the planes company. Cybersecurity, not engineering. Still cool.
+- 🖥️ SSH'd into **production servers** using PuTTY. Your code works in dev? Cute. Mine works in prod.
+- ☁️ My AWS dashboard has **6 widgets** monitoring real threat data. My friends have 0 widgets. I win.
+- 📚 CGPA of **9.10**. I took academics seriously so you don't have to wonder if I can learn fast.
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SiriBandaru)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandarusiri1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiriBandaru13)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiriBandaru13&color=blueviolet&style=flat-square" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <i>"The best time to push to main was yesterday. The second best time is after the tests pass." 🚀</i>
+</div>
